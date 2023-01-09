@@ -33,6 +33,7 @@ def circulate():
     n=int(input())
     l=l[n:]+l[:n]
     print("After circulating the values are:",l)
+```
 ## Output:
 ![output](C.png)
 ## Result:
